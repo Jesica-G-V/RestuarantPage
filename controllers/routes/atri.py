@@ -23,6 +23,7 @@ class Atri:
 		self.ImageSection = state["ImageSection"]
 		self.FavAppsSection = state["FavAppsSection"]
 		self.AppIconsGroup = state["AppIconsGroup"]
+		
 		self.Flex15 = state["Flex15"]
 		self.Flex36 = state["Flex36"]
 		self.Flex21 = state["Flex21"]
